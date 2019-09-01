@@ -1,0 +1,54 @@
+.DS_Store
+*.tslic
+*.res
+*.map
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+# Ignore undesirable Delphi files
+*.dcu
+*.~dfm
+*.~pas
+*.~dsk
+*.~dpr
+*.~ddp
+*.~rc
+# General nastiness
+*.bak
+*.tmp
+*.~dp
+*.~ds
+*.~df
+*.~pa
+eng/*.*
+english/*.*
+timeapp.abs
+timeapp.abs
+thefont.otf
+*.dsm
+*.dsk
+*.abs
+*.dof
+__history/*.*
+*.stat
+*.identcache
